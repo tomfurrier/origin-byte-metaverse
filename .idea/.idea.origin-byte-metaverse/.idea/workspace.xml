@@ -42,6 +42,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MirrorNetworkedThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.2/Tests/Editor/EditorExampleTest.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -105,7 +109,9 @@
       <workItem from="1665179573306" duration="600000" />
       <workItem from="1665308699442" duration="951000" />
       <workItem from="1665329123553" duration="1293000" />
-      <workItem from="1665330790137" duration="1651000" />
+      <workItem from="1665330790137" duration="2250000" />
+      <workItem from="1665348844702" duration="6009000" />
+      <workItem from="1665356788052" duration="1531000" />
     </task>
     <servers />
   </component>
