@@ -42,9 +42,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.4.2/InputSystem/Plugins/PlayerInput/DefaultInputActions.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -108,7 +105,7 @@
       <workItem from="1665179573306" duration="600000" />
       <workItem from="1665308699442" duration="951000" />
       <workItem from="1665329123553" duration="1293000" />
-      <workItem from="1665330790137" duration="1046000" />
+      <workItem from="1665330790137" duration="1651000" />
     </task>
     <servers />
   </component>
