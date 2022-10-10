@@ -1030,7 +1030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncMode: 0
   syncInterval: 0.1
-  MoveSpeed: 2
+  MoveSpeed: 2.5
   SprintSpeed: 5.335
   RotationSmoothTime: 0.12
   SpeedChangeRate: 10
@@ -1038,7 +1038,7 @@ MonoBehaviour:
   FootstepAudioClips:
   - {fileID: 8300000, guid: 72f526a6a9890f643a88e85a61c86c8a, type: 3}
   - {fileID: 8300000, guid: 85016e0f2b01da248b9663dd49a161b0, type: 3}
-  FootstepAudioVolume: 0.5
+  FootstepAudioVolume: 0.2
   JumpHeight: 1.2
   Gravity: -15
   JumpTimeout: 0.5
