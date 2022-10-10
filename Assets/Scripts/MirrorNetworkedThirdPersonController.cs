@@ -159,6 +159,7 @@ public class MirrorNetworkedThirdPersonController : NetworkBehaviour
     {
         base.OnStartAuthority();
 #if ENABLE_INPUT_SYSTEM && STARTER_ASSETS_PACKAGES_CHECKED
+        _playerInput = GetComponent<PlayerInput>();
         _playerInput.enabled = true;
 #endif
     }
