@@ -608,7 +608,7 @@ MonoBehaviour:
   offlineScene: 
   onlineScene: 
   transport: {fileID: 1572978457}
-  networkAddress: 13.39.84.26
+  networkAddress: eu-west.ssl.cloud.playflow.app
   maxConnections: 100
   authenticator: {fileID: 0}
   playerPrefab: {fileID: 3691421056518528366, guid: a20d8f0e8813fbf49959c3a4b77741fc, type: 3}
@@ -642,7 +642,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0110f245bfcfc7d459681f7bd9ebc590, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  port: 11696
+  port: 48370
   maxMessageSize: 16384
   handshakeMaxSize: 3000
   noDelay: 1
@@ -652,7 +652,7 @@ MonoBehaviour:
   clientMaxMessagesPerTick: 1000
   batchSend: 1
   waitBeforeSend: 0
-  clientUseWss: 0
+  clientUseWss: 1
   sslEnabled: 0
   sslCertJson: ./cert.json
   sslProtocols: 3072
